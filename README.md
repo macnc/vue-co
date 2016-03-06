@@ -2,6 +2,7 @@
 add co support for vue components. 
 
 Usage:
+```
 import vueCo from 'vue-co';
 export default vueCo({
   methods: {
@@ -14,3 +15,4 @@ export default vueCo({
   }
   //any generator function will be transformed by co.wrap
 })
+```
