@@ -2,7 +2,7 @@
 add co support for vue components. 
 
 Usage:
-```
+```js
 import vueCo from 'vue-co';
 export default vueCo({
   methods: {
