@@ -1,0 +1,27 @@
+{
+  "name": "vue-co",
+  "version": "1.0.0",
+  "description": "co support for vue components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangweis/vue-co.git"
+  },
+  "keywords": [
+    "co",
+    "vue"
+  ],
+  "author": "zhangweis",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zhangweis/vue-co/issues"
+  },
+  "homepage": "https://github.com/zhangweis/vue-co",
+  "dependencies": {
+    "co": "^4.6.0",
+    "is-generator-function-name": "^1.0.0"
+  }
+}
